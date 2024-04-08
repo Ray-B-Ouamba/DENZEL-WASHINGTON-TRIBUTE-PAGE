@@ -8,7 +8,6 @@ All things considered, setting up a Denzel Washington memorial website is a hear
 ## TECH USED:
 * HTML
 * CSS
-* JaAVASCRIPT
 
 ## OPTIMIZATIONS
 * We could have included more sharing buttons (e.g., Facebook, Pinterest) instead of just one (Twitter).
