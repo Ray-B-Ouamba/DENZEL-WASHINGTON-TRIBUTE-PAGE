@@ -1,7 +1,7 @@
 # DENZEL-WASHINGTON-TRIBUTE-PAGE
 
 # QUOTES-GENERATOR-WEBSITE
-We built a Daily Quote Website   
+We built a Daily Quote  
 **PROJECT LINK:** https://ray-b-ouamba.github.io/QUOTES-GENERATOR-WEBSITE-/
 
 ## HOW IT'S MADE:
