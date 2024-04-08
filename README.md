@@ -1,6 +1,6 @@
 # DENZEL-WASHINGTON-TRIBUTE-PAGE
 
-# QUOTES-
+
 **PROJECT LINK:** https://ray-b-ouamba.github.io/QUOTES-GENERATOR-WEBSITE
 
 ## HOW IT'S MADE:
