@@ -1,6 +1,6 @@
 # DENZEL-WASHINGTON-TRIBUTE-PAGE
 
-All things considered, setting up a Denzel Washington memorial website is a heartfelt way to celebrate his incredible career, uplift others, spread awareness, and strengthen the bond amongst 
+All things considered, setting up a Denzel Washington memorial website is a heartfelt way to celebrate his incredible career, uplift others, spread awareness, and strengthen the bond amongst admirers. 
 
 **PROJECT LINK:**  https://ray-b-ouamba.github.io/DENZEL-WASHINGTON-TRIBUTE-PAGE/
 
