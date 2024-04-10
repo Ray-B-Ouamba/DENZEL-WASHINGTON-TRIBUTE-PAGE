@@ -11,7 +11,7 @@ All things considered, setting up a Denzel Washington memorial website is a hear
 
 ## LESSONS LEARNED:
 * How to display the content from the API on a website using Javascript.
-* How to share content from your website to an another 
+* How to share content from your website to an another website.
 
 ## OTHER PROJECT:
 **BACKGROUND-COLOR-FOR-YOUR-YOUTUBE:**
