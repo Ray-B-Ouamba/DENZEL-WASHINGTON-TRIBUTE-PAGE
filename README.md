@@ -9,10 +9,6 @@ All things considered, setting up a Denzel Washington memorial website is a hear
 * HTML
 * CSS
 
-## OPTIMIZATIONS
-* We could have included more sharing buttons (e.g., Facebook, Pinterest) instead of just one (Twitter).
-* When the quote is shared, there are no quotation marks, so we may add them.
-
 ## LESSONS LEARNED:
 * How to display the content from the API on a website using Javascript.
 * How to share content from your website to an another website.
